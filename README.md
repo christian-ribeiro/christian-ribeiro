@@ -15,7 +15,7 @@
 
 <div align="center">
   <kbd style="display: inline-block; text-align: center; margin: 10px; background-color: transparent;padding: 15px">
-    <h3>Backend</h3>
+    <h3>Back-End</h3>
     <hr>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
